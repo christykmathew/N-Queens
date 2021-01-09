@@ -1,4 +1,4 @@
-<a href="https://www.python.org/downloads/release/python-383/"><img src="https://img.shields.io/badge/Python-v3.8-blue"></a>
+<a href="https://www.python.org/downloads/release/python-383/"><img src="https://img.shields.io/badge/Python-v3.8-blue"></a> [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christykmathew/N-Queens/blob/master/8_Queens.ipynb)
 
 # N-Queens 
 The n queens puzzle is the problem of placing n chess queens on an n*n chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. BackTracking is used to solve <i>N-Queen</i> in this solution.
